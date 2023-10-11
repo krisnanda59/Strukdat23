@@ -34,7 +34,7 @@ int main() {
        std::cout << "1. Tampilkan Data\n"; 
        std::cout << "2. Tambah Data\n";
        std::cout << "3. Hapus Data\n"; 
-       std::cout << "4. Perbarui Data\n"; 
+       std::cout << "4. Ubah Data\n"; 
        std::cout << "0. Keluar\n"; 
        std::cout << "Masukan Pilihanmu: ";
        std::cin >> choice;
